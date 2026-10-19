@@ -13,4 +13,4 @@ Les algorithmes testés — régression logistique, K-means, K plus proches vois
 
 **Limite :** Les performances obtenues sur le jeu de données disponible ne garantissent pas le même niveau de précision pour des billets provenant d’autres sources ou numérisés dans des conditions différentes.
 
-<img src = presentation/P8_sociodemograpique_DAG.png height = 300 >
+<img src = presentation/P8_sociodemographique_DAG.png = 300 >
