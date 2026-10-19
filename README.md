@@ -6,6 +6,7 @@ Projet 8 OpenClassrooms
 La plateforme de formation en ligne OpenClassrooms souhaitait mieux comprendre le profil sociodémographique des étudiants inscrits à ses formations Data. J’ai analysé des données internes d’inscription couvrant la période 2022–2025, que j’ai complétées avec des données démographiques publiques de l’INSEE.
 J’ai construit un pipeline de transformation avec dbt Cloud et Snowflake pour préparer, transformer et valider les données. J’ai ensuite réalisé l’analyse exploratoire et les visualisations en Python.
 
+
 <img src = presentation/P8_sociodemograpique_heatmap.png height = 300 >
 
 ### Résultats et impact
